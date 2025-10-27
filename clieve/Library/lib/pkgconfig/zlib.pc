@@ -1,0 +1,13 @@
+prefix=D:/climate change/Analysis/clieve/Library
+exec_prefix=D:/climate change/Analysis/clieve/Library
+libdir=D:/climate change/Analysis/clieve/Library/lib
+sharedlibdir=D:/climate change/Analysis/clieve/Library/lib
+includedir=D:/climate change/Analysis/clieve/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
