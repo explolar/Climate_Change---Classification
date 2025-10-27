@@ -2,3 +2,6 @@ pandas
 numpy
 openpyxl
 ipykernel
+pymannkendall
+scipy
+tabulate
