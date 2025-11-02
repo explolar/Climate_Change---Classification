@@ -5,3 +5,6 @@ ipykernel
 pymannkendall
 scipy
 tabulate
+matplotlib
+geopandas
+seaborn
